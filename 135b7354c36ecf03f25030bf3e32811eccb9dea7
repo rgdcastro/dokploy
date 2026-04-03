@@ -1,0 +1,27 @@
+packages/server/src/utils/builders/compose.ts
+  b9b2cf01a8453e5c 11,123-125
+packages/server/src/utils/docker/utils.ts
+  b9b2cf01a8453e5c 411-417
+packages/server/src/utils/builders/utils.ts
+  b9b2cf01a8453e5c 2-5,18-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "135b7354c36ecf03f25030bf3e32811eccb9dea7",
+  "prompts": {
+    "b9b2cf01a8453e5c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3e9037fe-fa90-4d88-8b5f-30a30b6a71b8",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raymond De Castro",
+      "messages": [],
+      "total_additions": 54,
+      "total_deletions": 38,
+      "accepted_lines": 26,
+      "overriden_lines": 0
+    }
+  }
+}
