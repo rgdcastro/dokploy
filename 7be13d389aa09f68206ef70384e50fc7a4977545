@@ -1,0 +1,38 @@
+packages/server/src/utils/docker/utils.ts
+  2c054b5af3c2c04b 411-418,420-426
+apps/dokploy/__test__/env/environment.test.ts
+  2c054b5af3c2c04b 4,367-410
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "7be13d389aa09f68206ef70384e50fc7a4977545",
+  "prompts": {
+    "2c054b5af3c2c04b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "95efc61c-34ef-4a04-ae91-16650cafa365",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raymond De Castro",
+      "messages": [],
+      "total_additions": 232,
+      "total_deletions": 80,
+      "accepted_lines": 61,
+      "overriden_lines": 0
+    },
+    "b9b2cf01a8453e5c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3e9037fe-fa90-4d88-8b5f-30a30b6a71b8",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raymond De Castro",
+      "messages": [],
+      "total_additions": 283,
+      "total_deletions": 118,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
